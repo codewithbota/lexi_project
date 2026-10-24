@@ -1,0 +1,5 @@
+Items:
+1. give up | Many students give up when they have to read long articles at night.
+2. take into account | Teachers should take into account how much sleep a student needs.
+3. come across | I came across a useful website while reading about memory.
+(... up to 10 items per request)

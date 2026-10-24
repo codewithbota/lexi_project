@@ -1,0 +1,73 @@
+{
+ "type": "ARRAY",
+ "items": {
+  "type": "OBJECT",
+  "properties": {
+   "base_form": {
+    "type": "STRING"
+   },
+   "part_of_speech": {
+    "type": "STRING"
+   },
+   "item_type": {
+    "type": "STRING",
+    "enum": [
+     "word",
+     "phrasal verb",
+     "idiom"
+    ]
+   },
+   "translation": {
+    "type": "STRING"
+   },
+   "simple_explanation": {
+    "type": "STRING"
+   },
+   "context_meaning": {
+    "type": "STRING"
+   },
+   "examples": {
+    "type": "ARRAY",
+    "minItems": 2,
+    "maxItems": 2,
+    "items": {
+     "type": "OBJECT",
+     "properties": {
+      "sentence": {
+       "type": "STRING"
+      },
+      "translation": {
+       "type": "STRING"
+      }
+     },
+     "required": [
+      "sentence",
+      "translation"
+     ]
+    }
+   },
+   "answer_in_example_1": {
+    "type": "STRING"
+   },
+   "distractors": {
+    "type": "ARRAY",
+    "minItems": 3,
+    "maxItems": 3,
+    "items": {
+     "type": "STRING"
+    }
+   }
+  },
+  "required": [
+   "base_form",
+   "part_of_speech",
+   "item_type",
+   "translation",
+   "simple_explanation",
+   "context_meaning",
+   "examples",
+   "answer_in_example_1",
+   "distractors"
+  ]
+ }
+}

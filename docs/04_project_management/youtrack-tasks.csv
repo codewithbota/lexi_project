@@ -1,0 +1,30 @@
+Summary,Description,Assignee,Priority,Type,Due Date,Milestone
+"Create GitHub repository, add README and folder structure","Create the repository, add the supervisor as collaborator, push the starter files. Each student commits her own files.","Kamila Melsova, Akbota Karimolda",Critical,Task,2026-10-12,M0
+Create YouTrack project and invite team and supervisor,Project key e.g. LEX; add both students and the supervisor.,"Kamila Melsova, Akbota Karimolda",Critical,Task,2026-10-12,M0
+Import tasks into YouTrack and assign them,Import youtrack-tasks.csv or add manually; fix assignees and dates.,"Kamila Melsova, Akbota Karimolda",Critical,Task,2026-10-12,M0
+"Agree milestones, risks, dependencies and responsibilities",Review docs/04_project_management/project-plan.md and adjust.,"Kamila Melsova, Akbota Karimolda",Major,Task,2026-10-13,M0
+"Finalize title (KZ/EN/RU), problem statement, target users, aim, objectives, outcomes and scope",Project proposal.,Kamila Melsova,Critical,Task,2026-10-14,M1
+Review the project proposal,Check that it matches requirements and design.,Akbota Karimolda,Major,Task,2026-10-15,M1
+Find and analyze at least 12 sources (8+ scientific),"Record authors, year, method, findings, limitations.",Kamila Melsova,Critical,Task,2026-10-16,M2
+Conduct 3-5 user discussions,Prepare questions; get consent; record notes.,"Kamila Melsova, Akbota Karimolda",Critical,Task,2026-10-17,M2
+Summarize findings of user discussions,One summary page with key needs and problems.,Kamila Melsova,Major,Task,2026-10-18,M2
+Compare 3-5 existing applications by 6-10 criteria,Comparison table.,Kamila Melsova,Critical,Task,2026-10-17,M2
+Create literature review table,"Authors, year, method, findings, limitations.",Kamila Melsova,Critical,Task,2026-10-18,M2
+Write research gap and why Lexi is needed,Based on the literature and app comparison.,Kamila Melsova,Critical,Task,2026-10-19,M3
+Review literature review and existing system comparison,Akbota Karimolda reviews Kamila Melsova's work.,Akbota Karimolda,Major,Task,2026-10-19,M3
+"Compare technologies (framework, backend, database, AI)",Draft ready in the technical design document.,Akbota Karimolda,Critical,Task,2026-10-12,M1
+Write functional and non-functional requirements with priorities and acceptance criteria,Draft ready in the technical design document.,Akbota Karimolda,Critical,Task,2026-10-12,M1
+Create System Context Diagram,draw.io file and PNG.,Akbota Karimolda,Critical,Task,2026-10-12,M1
+Create Use Case Diagram,draw.io file and PNG.,Akbota Karimolda,Critical,Task,2026-10-12,M1
+Create draft Component Diagram and architecture description,draw.io file and PNG.,Akbota Karimolda,Critical,Task,2026-10-12,M1
+Design clickable UX prototype in Figma,"Screens: library, add material, reader, study notes, dictionary, practice, profile.",Akbota Karimolda,Critical,Task,2026-10-14,M1
+"Prepare verification and evaluation plan, metrics, test cases and baseline",Draft ready in the technical design document.,Akbota Karimolda,Critical,Task,2026-10-12,M1
+"Review requirements, architecture and verification plan",Kamila Melsova reviews Akbota Karimolda's work; comments in GitHub.,Kamila Melsova,Major,Task,2026-10-16,M2
+Align requirements with research gap and user findings,Update priorities and features if needed.,"Kamila Melsova, Akbota Karimolda",Major,Task,2026-10-19,M3
+Cross-review of all deliverables,"Check consistency, language, missing items.","Kamila Melsova, Akbota Karimolda",Critical,Task,2026-10-20,M3
+Request supervisor feedback and log it,Fill docs/05_supervisor_feedback/feedback-log.md.,"Kamila Melsova, Akbota Karimolda",Critical,Task,2026-10-20,M3
+Incorporate supervisor feedback,Update documents and diagrams.,"Kamila Melsova, Akbota Karimolda",Critical,Task,2026-10-22,M4
+"Update requirements, diagrams and test plan after feedback",Akbota Karimolda part.,Akbota Karimolda,Major,Task,2026-10-22,M4
+"Organize documentation, editable diagrams, tests and configuration examples",Check all folders and links in README.,"Kamila Melsova, Akbota Karimolda",Major,Task,2026-10-22,M4
+Final check and create tag pre-defense-1,Both students confirm; create the tag on main.,"Kamila Melsova, Akbota Karimolda",Critical,Task,2026-10-23,M5
+Submit deliverables,Deadline 24 October.,"Kamila Melsova, Akbota Karimolda",Critical,Task,2026-10-24,M5
