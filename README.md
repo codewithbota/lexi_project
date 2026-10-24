@@ -44,14 +44,14 @@ config/                   Configuration examples (no secrets)
 | Tasks | YouTrack project (link below) |
 
 ## Links
-- YouTrack: https://bota.youtrack.cloud/projects/LEX/agiles/204-1/current
+- YouTrack: https://botanw.youtrack.cloud/projects/LEX
 - Figma prototype: https://www.figma.com/proto/Y0s4UHtc7WlxwF1baMRoms/Lexi--clickable-prototype?page-id=0%3A1&node-id=3-196&p=f&viewport=411%2C12%2C0.13&t=jkkvNbntk5feDWzA-1&scaling=min-zoom&content-scaling=fixed
 
 ## Team
 | Role | Name | GitHub |
 |---|---|---|
-| Kamila Melsova: research and requirements | Kamila Melsova | [KamilaMelsova] |
-| Akbota Karimolda: technical design and prototype | Akbota Karimolda | [codewithbota] |
+| Kamila Melsova: research and requirements | Kamila Melsova | KamilaMelsova |
+| Akbota Karimolda: technical design and prototype | Akbota Karimolda | codewithbota |
 | Supervisor | Zhanna Sadirmekova| |
 
 ## Setup (planned)
